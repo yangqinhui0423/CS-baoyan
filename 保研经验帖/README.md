@@ -29,6 +29,7 @@
 * @[B4a](https://guoch.xyz)的[SWJTUer的艰难CS保研之路：从夏0营到郁推免到捡漏上岸 | 失败的反例，夏0营、郁推免、开系统前一天被鸽、捡漏，大家引以为戒](https://guoch.xyz/2022/10/13/baoyan/)
 * @[Filbert](https://www.zhihu.com/people/filbert-9)的[22年计算机夏令营保研回顾-普2跨保交叉试水选手（吉林AI，华师大数据，北师AI，南大软件，人大公管，中科大科学岛）](https://zhuanlan.zhihu.com/p/560353517)、[22年-19级计算机保研形势分析（含本校情况统计）](https://zhuanlan.zhihu.com/p/570611960)
 * @[Harris-H](https://www.zhihu.com/people/hehaohe-hao)的[2022年双非计算机保研经历分享(浙大、北航、中科院等)](https://zhuanlan.zhihu.com/p/573707010)
+* @[Welt](https://welts.xyz/)的[南大人工智能学院开放日面试题](https://zhuanlan.zhihu.com/p/559558628)
 
 
 
