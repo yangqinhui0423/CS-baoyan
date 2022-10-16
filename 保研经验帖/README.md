@@ -13,6 +13,15 @@
 * @[王政霖LIN](https://blog.csdn.net/weixin_45781381?type=blog)的[【经验篇】2022年（2023届）我的保研经历](https://blog.csdn.net/weixin_45781381/article/details/127144804?spm=1001.2014.3001.5501)
 * @[张北北](https://tzq0301.cn/)的[2022 年计算机保研经历｜Rank 中游、无一作、竞赛少、无实习、无优质项目的中游选手｜天大云计算、南大软件所、中南计算机、中山计算机、中山软件、川大计算机](https://zhuanlan.zhihu.com/p/502719456)
 * @[Hwcoder](https://hwcoder.top/)的[2022中九CS保研回忆录（复旦CS/人大高瓴/北大软微/科大/清华软院...）](https://zhuanlan.zhihu.com/p/569487445)
+* @[花降](https://www.zhihu.com/people/li-jun-ting-45-88)的[2022年（23届）计算机保研边缘人面试经验及建议（无清北华五，大佬退散）](https://zhuanlan.zhihu.com/p/569065405)
+* @[栖风破雨](https://www.zhihu.com/people/qi-feng-po-yu)的[2022年大数据保研经验贴（北大叉院、南大AI院、哈工大SCIR实验室、SIAT数字所）](https://zhuanlan.zhihu.com/p/573474044)
+* @[无与](https://www.zhihu.com/people/wu-yi-jian-64)的[2023计算机保研经历（清华软院、复旦CS、人大高瓴、南大CS等）](https://zhuanlan.zhihu.com/p/573141762)
+* @[Alkali！](https://blog.csdn.net/weixin_45798993?type=blog)的[2022保研经验贴：华南理工大学计算机科学与工程学院 、东南大学计算机科学与工程学院等](https://blog.csdn.net/weixin_45798993/article/details/127155636)
+* @[等风来不如追风去](https://www.zhihu.com/people/shang-li-xin-85)的[2022年保研经验网安&华五&武大中山等](https://zhuanlan.zhihu.com/p/573404307)
+* @[相约相守到天边](https://blog.csdn.net/m0_47262980?type=blog)的[2022年计算机保研记录（计算所、浙大、华科、东南、北航）](https://blog.csdn.net/m0_47262980/article/details/127122358)
+* @[xx学渣](https://www.zhihu.com/people/xxxue-zha)的[2022年计算机保研夏令营/预推免经验分享（清北华五人）](https://zhuanlan.zhihu.com/p/559444934)
+* @[Someity](https://www.zhihu.com/people/aegsteh)的[2022计算机保研经验（清华深圳计算机、清华网研院、南京大学等）](https://zhuanlan.zhihu.com/p/569722841)
+* @[203](https://www.zhihu.com/people/203-26)的[2022普通211计算机保研经历——北深、复旦、浙软、东南、南开、中南、哈工大、北师大等](https://zhuanlan.zhihu.com/p/569246940)
 
 ## 2021夏令营总结贴
 
