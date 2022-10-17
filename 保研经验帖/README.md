@@ -30,6 +30,9 @@
 * @[Filbert](https://www.zhihu.com/people/filbert-9)的[22年计算机夏令营保研回顾-普2跨保交叉试水选手（吉林AI，华师大数据，北师AI，南大软件，人大公管，中科大科学岛）](https://zhuanlan.zhihu.com/p/560353517)、[22年-19级计算机保研形势分析（含本校情况统计）](https://zhuanlan.zhihu.com/p/570611960)
 * @[Harris-H](https://www.zhihu.com/people/hehaohe-hao)的[2022年双非计算机保研经历分享(浙大、北航、中科院等)](https://zhuanlan.zhihu.com/p/573707010)
 * @[Welt](https://welts.xyz/)的[南大人工智能学院开放日面试题](https://zhuanlan.zhihu.com/p/559558628)
+* @[仰望歆空](https://www.zhihu.com/people/yang-wang-xin-kong-72)的[2022年(23届)计算机保研经验分享(北航、东南、西工大、哈工大、中山等)](https://zhuanlan.zhihu.com/p/570714265)
+* @[维克多](https://www.zhihu.com/people/ling-tian-32-35)的[保研夏令营及预推免总结|南大，中科大，北邮，北航，计算所，软件所中文等](https://zhuanlan.zhihu.com/p/568009914)
+* 
 
 
 
