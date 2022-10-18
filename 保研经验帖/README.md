@@ -36,6 +36,7 @@
 * @[csfrogy](https://www.zhihu.com/people/ou-er-yao-la-zha-29)的[2022计算机保研/申请记录（港三/清北/华五人/计算所）](https://zhuanlan.zhihu.com/p/569696962)
 * @[海螺](https://www.starryfk.com/)的[记录我的2022年四非保研之rk边缘人无六级鸽浙大上岸华师软院学硕](https://www.starryfk.com/else/record-my-2023-postgradute-recommendation.html)
 * @[MathsCode](https://www.zhihu.com/people/xu-jia-ming-29-41)的[2022年CS保研经验分享（清深、上交、南大LAMDA、同济、东南Palm等）](https://zhuanlan.zhihu.com/p/570722079)
+* @[TanyUJS](https://www.zhihu.com/people/dong-yi-chen-64)的[2022年，四非计科学生的保研大局观复盘经验贴](https://zhuanlan.zhihu.com/p/569445562)
 
 ## 2021夏令营总结贴
 
