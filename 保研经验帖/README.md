@@ -34,6 +34,7 @@
 * @[仰望歆空](https://www.zhihu.com/people/yang-wang-xin-kong-72)的[2022年(23届)计算机保研经验分享(北航、东南、西工大、哈工大、中山等)](https://zhuanlan.zhihu.com/p/570714265)
 * @[维克多](https://www.zhihu.com/people/ling-tian-32-35)的[保研夏令营及预推免总结|南大，中科大，北邮，北航，计算所，软件所中文等](https://zhuanlan.zhihu.com/p/568009914)
 * @[New_Bee777](https://blog.csdn.net/qq_50764810?type=blog)的[2022计算机保研边缘人的挣扎之路（东南、武大、国防科大、信工所、川大、西交，天大佐治亚、央音、东北大、电科深、西工大、山大）](https://blog.csdn.net/qq_50764810/article/details/127028093)
+* @[csfrogy](https://www.zhihu.com/people/ou-er-yao-la-zha-29)的[2022计算机保研/申请记录（港三/清北/华五人/计算所）](https://zhuanlan.zhihu.com/p/569696962)
 
 ## 2021夏令营总结贴
 
