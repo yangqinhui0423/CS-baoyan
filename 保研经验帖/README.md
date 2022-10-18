@@ -34,6 +34,7 @@
 * @[维克多](https://www.zhihu.com/people/ling-tian-32-35)的[保研夏令营及预推免总结|南大，中科大，北邮，北航，计算所，软件所中文等](https://zhuanlan.zhihu.com/p/568009914)
 * @[New_Bee777](https://blog.csdn.net/qq_50764810?type=blog)的[2022计算机保研边缘人的挣扎之路（东南、武大、国防科大、信工所、川大、西交，天大佐治亚、央音、东北大、电科深、西工大、山大）](https://blog.csdn.net/qq_50764810/article/details/127028093)
 * @[csfrogy](https://www.zhihu.com/people/ou-er-yao-la-zha-29)的[2022计算机保研/申请记录（港三/清北/华五人/计算所）](https://zhuanlan.zhihu.com/p/569696962)
+* @[海螺](https://www.starryfk.com/)的[记录我的2023届四非保研之rk边缘人无六级鸽浙大上岸华师软院学硕](https://www.starryfk.com/else/record-my-2023-postgradute-recommendation.html)
 
 ## 2021夏令营总结贴
 
@@ -76,7 +77,6 @@
 * @[dragon_bra](https://www.zhihu.com/people/chi-yue-dian)的[2021厦门大学CS保研经历 | 夏令营游记 | MAC实验室](https://zhuanlan.zhihu.com/p/426136401)
 * @[方知](https://www.zhihu.com/people/piao-lin-66-27)的[2021保研夏令营经验贴](https://zhuanlan.zhihu.com/p/470421627)
 * @[libcso6](https://www.zhihu.com/people/glibc)的[【OUC保研NO.56】To复旦：保研边缘，感觉寄了？那就开摆！](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMzI4NQ==&mid=2247486042&idx=1&sn=9079d5068dbbf15f75fc7819cb4e78b7&chksm=fc75d3b0cb025aa682e459531205965e18cd7c180cccfb12ddfd30046f54dbc9adf77b2b3b1b&mpshare=1&scene=22&srcid=0314FIJCHvhVJqbwti2CVvmu&sharer_sharetime=1647229808862&sharer_shareid=dd1ce66b3ff97b74ecc83dbb60e9b8d3%23rd)
-* @[海螺](https://www.starryfk.com/)的[记录我的2023届四非保研之rk边缘人无六级鸽浙大上岸华师软院学硕](https://www.starryfk.com/else/record-my-2023-postgradute-recommendation.html)
 
 ## 2020夏令营总结贴
 
@@ -123,7 +123,6 @@
  - @[宫·商](https://blog.csdn.net/qq_38633884)的[2019上交、上科、北航、中科大、自动化所计算机夏令营+浙大计算机预推免简记](https://blog.csdn.net/qq_38633884/article/details/97178586)
  - @[圈圈](https://www.zhihu.com/people/li-quan-quan-24)的[2020年保研经历](https://blog.csdn.net/qq_40742077/article/details/109064266)
  - @[Ji Peng](https://www.zhihu.com/people/jipeng-48)的[2020年“工理经管”四大门类保研夏令营混申回忆录（清深、TBSI、计算所、上交电院、北大汇丰等十余个项目）](https://zhuanlan.zhihu.com/p/358182473)
-
 
 ## 2018年夏令营总结贴
 
