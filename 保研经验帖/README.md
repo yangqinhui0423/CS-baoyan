@@ -1,6 +1,5 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 ## 2022夏令营总结贴
-* @[海螺](https://www.starryfk.com/)的[记录我的2023届四非保研之rk边缘人无六级鸽浙大上岸华师软院学硕](https://www.starryfk.com/else/record-my-2023-postgradute-recommendation.html)
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
 * @[摸鱼ing](https://www.zhihu.com/people/tu-tu-83-41-10)的[2022年（2023届）计算机保研——清华自动化、北大计算机、计算所vipl、南开cmm、南大计算机、人大信息等，附保研常见问题解答、清北华五院系分析](https://zhuanlan.zhihu.com/p/572166269)
 * @[一口鸟](https://www.zhihu.com/people/yikou-niao-93)的[2022年北京某985计算机保研经历分享（清华、上交、中科院等）](https://zhuanlan.zhihu.com/p/569829982)
@@ -77,6 +76,7 @@
 * @[dragon_bra](https://www.zhihu.com/people/chi-yue-dian)的[2021厦门大学CS保研经历 | 夏令营游记 | MAC实验室](https://zhuanlan.zhihu.com/p/426136401)
 * @[方知](https://www.zhihu.com/people/piao-lin-66-27)的[2021保研夏令营经验贴](https://zhuanlan.zhihu.com/p/470421627)
 * @[libcso6](https://www.zhihu.com/people/glibc)的[【OUC保研NO.56】To复旦：保研边缘，感觉寄了？那就开摆！](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMzI4NQ==&mid=2247486042&idx=1&sn=9079d5068dbbf15f75fc7819cb4e78b7&chksm=fc75d3b0cb025aa682e459531205965e18cd7c180cccfb12ddfd30046f54dbc9adf77b2b3b1b&mpshare=1&scene=22&srcid=0314FIJCHvhVJqbwti2CVvmu&sharer_sharetime=1647229808862&sharer_shareid=dd1ce66b3ff97b74ecc83dbb60e9b8d3%23rd)
+* @[海螺](https://www.starryfk.com/)的[记录我的2023届四非保研之rk边缘人无六级鸽浙大上岸华师软院学硕](https://www.starryfk.com/else/record-my-2023-postgradute-recommendation.html)
 
 ## 2020夏令营总结贴
 
