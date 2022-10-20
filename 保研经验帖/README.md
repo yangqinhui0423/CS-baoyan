@@ -1,6 +1,5 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 ## 2022夏令营总结贴
-* @[hxzzzz](https://www.zhihu.com/people/hao-xiang-zhao)的[2022年（2023届）计算机保研经验（非常规保研，中科大、北大计算机，自动化所）](https://zhuanlan.zhihu.com/p/571277772)
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
 * @[摸鱼ing](https://www.zhihu.com/people/tu-tu-83-41-10)的[2022年（2023届）计算机保研——清华自动化、北大计算机、计算所vipl、南开cmm、南大计算机、人大信息等，附保研常见问题解答、清北华五院系分析](https://zhuanlan.zhihu.com/p/572166269)
 * @[一口鸟](https://www.zhihu.com/people/yikou-niao-93)的[2022年北京某985计算机保研经历分享（清华、上交、中科院等）](https://zhuanlan.zhihu.com/p/569829982)
@@ -39,6 +38,8 @@
 * @[MathsCode](https://www.zhihu.com/people/xu-jia-ming-29-41)的[2022年CS保研经验分享（清深、上交、南大LAMDA、同济、东南Palm等）](https://zhuanlan.zhihu.com/p/570722079)
 * @[TanyUJS](https://www.zhihu.com/people/dong-yi-chen-64)的[2022年，四非计科学生的保研大局观复盘经验贴](https://zhuanlan.zhihu.com/p/569445562)
 * @[时光如流](https://www.zhihu.com/people/shi-jian-de-he-73)的[双非计算机保研上岸南邮、苏大、中南、浙软、厦大经验贴](https://zhuanlan.zhihu.com/p/569715955)
+* @[hxzzzz](https://www.zhihu.com/people/hao-xiang-zhao)的[2022年（2023届）计算机保研经验（非常规保研，中科大、北大计算机，自动化所）](https://zhuanlan.zhihu.com/p/571277772)
+* @[勃学家](https://www.zhihu.com/people/shi-fei-du-shi-xiang-dui-de)的[2022年菜鸡ACMer计算机保研经验贴（2023届，人大信院，北航等）](https://zhuanlan.zhihu.com/p/572461932)
 
 ## 2021夏令营总结贴
 
