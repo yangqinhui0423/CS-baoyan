@@ -40,6 +40,7 @@
 * @[时光如流](https://www.zhihu.com/people/shi-jian-de-he-73)的[双非计算机保研上岸南邮、苏大、中南、浙软、厦大经验贴](https://zhuanlan.zhihu.com/p/569715955)
 * @[hxzzzz](https://www.zhihu.com/people/hao-xiang-zhao)的[2022年（2023届）计算机保研经验（非常规保研，中科大、北大计算机，自动化所）](https://zhuanlan.zhihu.com/p/571277772)
 * @[勃学家](https://www.zhihu.com/people/shi-fei-du-shi-xiang-dui-de)的[2022年菜鸡ACMer计算机保研经验贴（2023届，人大信院，北航等）](https://zhuanlan.zhihu.com/p/572461932)
+* @[javayuan](http://javayuan.cn)的[2022年西北工业大学网安学院大菜鸡的保研之旅](http://javayuan.cn/index.php/archives/31/)
 
 ## 2021夏令营总结贴
 
