@@ -41,6 +41,8 @@
 * @[hxzzzz](https://www.zhihu.com/people/hao-xiang-zhao)的[2022年（2023届）计算机保研经验（非常规保研，中科大、北大计算机，自动化所）](https://zhuanlan.zhihu.com/p/571277772)
 * @[勃学家](https://www.zhihu.com/people/shi-fei-du-shi-xiang-dui-de)的[2022年菜鸡ACMer计算机保研经验贴（2023届，人大信院，北航等）](https://zhuanlan.zhihu.com/p/572461932)
 * @[javayuan](http://javayuan.cn)的[2022年西北工业大学网安学院大菜鸡的保研之旅](http://javayuan.cn/index.php/archives/31/)
+* @[匿名用户](https://www.zhihu.com/people/qian-2333-25)的[2022低rk 保研套磁经历](https://zhuanlan.zhihu.com/p/577423871)
+* @[Here_SDUT](https://fangkaipeng.com/)的[保研经验分享（双非计算机上岸成电） – Here_SDUT](https://fangkaipeng.com/?p=2103)
 
 ## 2021夏令营总结贴
 
