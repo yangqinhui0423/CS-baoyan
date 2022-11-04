@@ -43,6 +43,7 @@
 * @[javayuan](http://javayuan.cn)的[2022年西北工业大学网安学院大菜鸡的保研之旅](http://javayuan.cn/index.php/archives/31/)
 * @[匿名用户](https://www.zhihu.com/people/qian-2333-25)的[2022低rk 保研套磁经历](https://zhuanlan.zhihu.com/p/577423871)
 * @[Here_SDUT](https://fangkaipeng.com/)的[保研经验分享（双非计算机上岸成电） – Here_SDUT](https://fangkaipeng.com/?p=2103)
+* @[非天](https://www.zhihu.com/people/wen-guang-40/answers)的[2022年北京中游211计算机（DS）保研经验（2023届）（人大信院、浙大网安、协和医院）](https://zhuanlan.zhihu.com/p/576299033)
 
 ## 2021夏令营总结贴
 
@@ -85,7 +86,7 @@
 * @[dragon_bra](https://www.zhihu.com/people/chi-yue-dian)的[2021厦门大学CS保研经历 | 夏令营游记 | MAC实验室](https://zhuanlan.zhihu.com/p/426136401)
 * @[方知](https://www.zhihu.com/people/piao-lin-66-27)的[2021保研夏令营经验贴](https://zhuanlan.zhihu.com/p/470421627)
 * @[libcso6](https://www.zhihu.com/people/glibc)的[【OUC保研NO.56】To复旦：保研边缘，感觉寄了？那就开摆！](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMzI4NQ==&mid=2247486042&idx=1&sn=9079d5068dbbf15f75fc7819cb4e78b7&chksm=fc75d3b0cb025aa682e459531205965e18cd7c180cccfb12ddfd30046f54dbc9adf77b2b3b1b&mpshare=1&scene=22&srcid=0314FIJCHvhVJqbwti2CVvmu&sharer_sharetime=1647229808862&sharer_shareid=dd1ce66b3ff97b74ecc83dbb60e9b8d3%23rd)
-* @[非天](https://www.zhihu.com/people/wen-guang-40/answers)的[2022年北京中游211计算机（DS）保研经验（2023届）（人大信院、浙大网安、协和医院）](https://zhuanlan.zhihu.com/p/576299033)
+
 ## 2020夏令营总结贴
 
 - @[墨云沧](https://www.zhihu.com/people/niraliye)的[2020计算机专业保研经验贴](https://zhuanlan.zhihu.com/p/267009034)
