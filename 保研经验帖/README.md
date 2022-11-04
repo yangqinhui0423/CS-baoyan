@@ -86,6 +86,8 @@
 * @[dragon_bra](https://www.zhihu.com/people/chi-yue-dian)的[2021厦门大学CS保研经历 | 夏令营游记 | MAC实验室](https://zhuanlan.zhihu.com/p/426136401)
 * @[方知](https://www.zhihu.com/people/piao-lin-66-27)的[2021保研夏令营经验贴](https://zhuanlan.zhihu.com/p/470421627)
 * @[libcso6](https://www.zhihu.com/people/glibc)的[【OUC保研NO.56】To复旦：保研边缘，感觉寄了？那就开摆！](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMzI4NQ==&mid=2247486042&idx=1&sn=9079d5068dbbf15f75fc7819cb4e78b7&chksm=fc75d3b0cb025aa682e459531205965e18cd7c180cccfb12ddfd30046f54dbc9adf77b2b3b1b&mpshare=1&scene=22&srcid=0314FIJCHvhVJqbwti2CVvmu&sharer_sharetime=1647229808862&sharer_shareid=dd1ce66b3ff97b74ecc83dbb60e9b8d3%23rd)
+* @[湘粤Ian](https://blog.csdn.net/IanYue?type=blog)的[跨保985计算机】2022跨保实录|六千字保姆教程](https://blog.csdn.net/IanYue/article/details/127076919?spm=1001.2014.3001.5501)
+* @[小梁说代码](https://liangyuanshao.blog.csdn.net/?type=blog)的[2022年计算机保研夏令营经验总结，11所院校经历，预推免上岸北大](https://blog.csdn.net/qq_45722494/article/details/125954889)
 
 ## 2020夏令营总结贴
 
