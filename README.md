@@ -1,5 +1,6 @@
 # CS-BAOYAN-2023 (二代目)
 **全国最大非商业用爱交流计算机保研交流群**（QQ群号：605176069）
+![1群QR](https://github.com/CS-BAOYAN/CS-BAOYAN-2023/blob/main/1%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
 
 **全国最大非商业用爱交流计算机保研交流群2**（QQ群号：943826679）
 
