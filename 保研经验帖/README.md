@@ -44,7 +44,7 @@
 * @[匿名用户](https://www.zhihu.com/people/qian-2333-25)的[2022低rk 保研套磁经历](https://zhuanlan.zhihu.com/p/577423871)
 * @[Here_SDUT](https://fangkaipeng.com/)的[保研经验分享（双非计算机上岸成电） – Here_SDUT](https://fangkaipeng.com/?p=2103)
 * @[非天](https://www.zhihu.com/people/wen-guang-40/answers)的[2022年北京中游211计算机（DS）保研经验（2023届）（人大信院、浙大网安、协和医院）](https://zhuanlan.zhihu.com/p/576299033)
-* @[湘粤Ian](https://blog.csdn.net/IanYue?type=blog)的[跨保985计算机]2022跨保实录|六千字保姆教程](https://blog.csdn.net/IanYue/article/details/127076919?spm=1001.2014.3001.5501)
+* @[湘粤Ian](https://blog.csdn.net/IanYue?type=blog)的[跨保985计算机2022跨保实录|六千字保姆教程](https://blog.csdn.net/IanYue/article/details/127076919?spm=1001.2014.3001.5501)
 * @[小梁说代码](https://liangyuanshao.blog.csdn.net/?type=blog)的[2022年计算机保研夏令营经验总结，11所院校经历，预推免上岸北大](https://blog.csdn.net/qq_45722494/article/details/125954889)
 * @[overflow](https://www.zhihu.com/people/zhong-ren-48-39)的[2023届四非第一跨专业上岸华五软工（科大先研软件、南大软件_替补中偏上、中科院软件所、南开软件、浙大工程师替补、厦大人工智能、山大软件、东南网安_替补中偏上）](https://zhuanlan.zhihu.com/p/581205619)
 * @[莱昂纳多七世](https://www.zhihu.com/people/yi-qiao-98-91)的[2022年四非计算机保研之旅（信工所、软件所、计算所、南大、国防科大、北师大、北工大等）](https://zhuanlan.zhihu.com/p/575140597)
