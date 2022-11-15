@@ -48,6 +48,8 @@
 * @[小梁说代码](https://liangyuanshao.blog.csdn.net/?type=blog)的[2022年计算机保研夏令营经验总结，11所院校经历，预推免上岸北大](https://blog.csdn.net/qq_45722494/article/details/125954889)
 * @[overflow](https://www.zhihu.com/people/zhong-ren-48-39)的[2023届四非第一跨专业上岸华五软工（科大先研软件、南大软件_替补中偏上、中科院软件所、南开软件、浙大工程师替补、厦大人工智能、山大软件、东南网安_替补中偏上）](https://zhuanlan.zhihu.com/p/581205619)
 * @[莱昂纳多七世](https://www.zhihu.com/people/yi-qiao-98-91)的[2022年四非计算机保研之旅（信工所、软件所、计算所、南大、国防科大、北师大、北工大等）](https://zhuanlan.zhihu.com/p/575140597)
+* @[whisper](https://www.zhihu.com/people/whisper-56-23)的[2022年计算机保研经历分享](https://zhuanlan.zhihu.com/p/583086125?)
+* @[ksuD](https://www.zhihu.com/people/wang-chang-93-26)的[2022年（23届）计算机保研经验贴（清深、浙大、中科大、复旦、南大、人大高瓴等）-末流211“三无”选手-（无title无rk无paper）曲曲折折的推免之路](https://zhuanlan.zhihu.com/p/578838468)
 
 ## 2021夏令营总结贴
 
