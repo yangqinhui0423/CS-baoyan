@@ -51,6 +51,7 @@
 * @[whisper](https://www.zhihu.com/people/whisper-56-23)的[2022年计算机保研经历分享](https://zhuanlan.zhihu.com/p/583086125?)
 * @[ksuD](https://www.zhihu.com/people/wang-chang-93-26)的[2022年（23届）计算机保研经验贴（清深、浙大、中科大、复旦、南大、人大高瓴等）-末流211“三无”选手-（无title无rk无paper）曲曲折折的推免之路](https://zhuanlan.zhihu.com/p/578838468)
 * @[Stephen.ki](https://www.zhihu.com/people/mou-yu-qi-87)的[2022年计算机保研经验贴（双非DS->同济CS）](https://zhuanlan.zhihu.com/p/584854212)
+* @[月亮在偷看吖](https://www.zhihu.com/people/zhong-xia-wei-mang)的[2023届计算机保研（北大华五两所）](https://zhuanlan.zhihu.com/p/578775674)
 
 ## 2021夏令营总结贴
 
