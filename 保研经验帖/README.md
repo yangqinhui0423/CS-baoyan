@@ -53,6 +53,7 @@
 * @[Stephen.ki](https://www.zhihu.com/people/mou-yu-qi-87)的[2022年计算机保研经验贴（双非DS->同济CS）](https://zhuanlan.zhihu.com/p/584854212)
 * @[月亮在偷看吖](https://www.zhihu.com/people/zhong-xia-wei-mang)的[2023届计算机保研（北大华五两所）](https://zhuanlan.zhihu.com/p/578775674)
 * @[啦啦啦](https://www.zhihu.com/people/wan-feng-yu-gui-49)的[2022计算机保研经验分享（清深伯克利tbsi+北深）](https://zhuanlan.zhihu.com/p/596883087)
+* @[反过来想](https://www.zhihu.com/people/111-88-16-78)的[2023-计算机保研经历-南大lamda 中科大 北航 山大](https://zhuanlan.zhihu.com/p/569478861)
 
 ## 2021夏令营总结贴
 
