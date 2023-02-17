@@ -258,7 +258,7 @@
 #                       Zengkai Peng, https://github.com/zengkaipeng,
 #                       Ziyang  Ma,   https://github.com/ddlBoJack)
 #
-# See ./LICENSE for clarification regarding multiple authors
+# See ../LICENSE for clarification regarding multiple authors
 #
 # Licensed under the GNU GENERAL PUBLIC LICENSE (the "License");
 # you may not use this file except in compliance with the License.
