@@ -170,7 +170,7 @@
 
 #### 清华大学计算机系
 
-- @[CYMario](https://www.zhihu.com/people/cymario)的[清华大学计算机类专业考研/保研--机试经验贴](https://zhuanlan.zhihu.com/p/614290119)(机考第一关于上机考试的全面解析)
+- @[CYMario](https://www.zhihu.com/people/cymario)的[清华大学计算机类专业考研/保研--机试经验贴](https://zhuanlan.zhihu.com/p/614290119)（机考第一关于上机考试的全面解析）
 
  - @[马天猫](https://www.zhihu.com/people/ma-shao-nan-89/)的[马天猫的CS保研经历](http://www.voidcn.com/article/p-nmrtcllh-bph.html)
  - 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
