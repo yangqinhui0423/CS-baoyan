@@ -21,7 +21,6 @@
 * @[相约相守到天边](https://blog.csdn.net/m0_47262980?type=blog)的[2022年计算机保研记录（计算所、浙大、华科、东南、北航）](https://blog.csdn.net/m0_47262980/article/details/127122358)
 * @[xx学渣](https://www.zhihu.com/people/xxxue-zha)的[2022年计算机保研夏令营/预推免经验分享（清北华五人）](https://zhuanlan.zhihu.com/p/559444934)
 * @[Someity](https://www.zhihu.com/people/aegsteh)的[2022计算机保研经验（清华深圳计算机、清华网研院、南京大学等）](https://zhuanlan.zhihu.com/p/569722841)
-* @[203](https://www.zhihu.com/people/203-26)的[2022普通211计算机保研经历——北深、复旦、浙软、东南、南开、中南、哈工大、北师大等](https://zhuanlan.zhihu.com/p/569246940)
 * @[lori-G](https://www.zhihu.com/people/di-1104)的[2022年计算机保研经验贴（南软、浙软、中科大苏高院、北航计算机、国防科大计算机、北邮计算机、上科大生医工、西工大计算机、南开软、吉大人工智能、中南计算机、软件所计科国重等）](https://zhuanlan.zhihu.com/p/570763361)
 * @[红莲的弓矢](https://www.zhihu.com/people/ma-si-te-er-pi-si)[2022年（2023届）三无底层选手（低rank，无科研，无竞赛）计算机保研记录（南大，浙大uiuc，哈工大深圳，西交se，北师大ai、认知神经科学国重，中山se，哈工大计算学部）](https://zhuanlan.zhihu.com/p/562764736)
 * @[Ever洋葱头](https://www.zhihu.com/people/ever-21-4)的[2022年（23届）保研：末九计算机边缘人的挣扎捡漏之路（夏令营+预推免终上岸华五专硕）](https://zhuanlan.zhihu.com/p/568980903)
